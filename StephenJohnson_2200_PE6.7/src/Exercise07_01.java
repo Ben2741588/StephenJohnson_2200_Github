@@ -5,7 +5,7 @@
  *
  */
 import java.util.Scanner;
-public class Exercise06_07 {
+public class Exercise07_01 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter the number of students: ");
